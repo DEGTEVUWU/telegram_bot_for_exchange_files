@@ -1,0 +1,19 @@
+2024-05-09 11:41:19 DEBUG TelegramBot:32 - gtt
+2024-05-09 11:41:46 DEBUG TelegramBot:32 - rgtbrgbrgb
+2024-05-09 11:43:48 DEBUG TelegramBot:33 - 111
+2024-05-09 11:49:33 DEBUG TelegramBot:35 - 11111
+2024-05-09 11:49:38 DEBUG TelegramBot:35 - ssss
+2024-05-09 11:49:51 DEBUG TelegramBot:35 - aaa
+2024-05-09 11:51:28 DEBUG TelegramBot:35 - ggg
+2024-05-09 11:51:29 ERROR TelegramBot:48 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2024-05-09 13:07:18 DEBUG UpdateProductImpl:14 - 111111!!
+2024-05-09 13:07:53 ERROR UpdateController:38 - Неподдерживаемый тип сообщения: Update(updateId=553386652, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=59, from=User(id=510825088, firstName=IVAN, isBot=false, lastName=DYOGTEV, userName=ar_terria, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1715249414, chat=Chat(id=510825088, type=private, title=null, firstName=IVAN, lastName=DYOGTEV, userName=ar_terria, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=111111!!3333, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1715249449, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2024-05-09 13:08:34 DEBUG UpdateProductImpl:14 - 
+2024-05-09 13:12:42 DEBUG UpdateProductImpl:14 - 
+2024-05-09 13:13:36 DEBUG UpdateProductImpl:14 - rrr
+2024-05-09 13:13:42 DEBUG UpdateProductImpl:14 - 
+2024-05-09 13:18:01 DEBUG UpdateProductImpl:14 - hh
+2024-05-09 13:18:09 DEBUG UpdateProductImpl:14 - 
+2024-05-09 13:20:20 DEBUG UpdateProductImpl:14 - 
+2024-05-09 13:21:01 DEBUG UpdateProductImpl:14 - ff
+2024-05-09 13:21:47 DEBUG UpdateProductImpl:14 - 
