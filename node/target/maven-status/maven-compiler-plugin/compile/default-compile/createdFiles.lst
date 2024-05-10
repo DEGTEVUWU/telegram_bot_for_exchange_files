@@ -1,0 +1,6 @@
+spring_project/service/impl/ConsumerServiceImpl.class
+spring_project/configuration/RabbitConfiguration.class
+spring_project/NodeApplication.class
+spring_project/service/ProducerService.class
+spring_project/service/ConsumerService.class
+spring_project/service/impl/ProducerServiceImpl.class

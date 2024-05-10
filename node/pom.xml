@@ -9,13 +9,12 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>dispatcher</artifactId>
+    <artifactId>node</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-<!--        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>-->
-        <telegrambot.starter.version>6.1.0</telegrambot.starter.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <dependencies>
@@ -41,7 +40,6 @@
             <artifactId>common-rabbitmq</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-
 
     </dependencies>
 

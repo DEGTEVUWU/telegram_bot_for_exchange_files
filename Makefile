@@ -4,6 +4,10 @@ start:
 	make -C dispatcher start
 #запускает приложение из главного класса
 
+start-node:
+	make -C node start-node
+#запускает приложение из node модуля
+
 restart:
 	make -C dispatcher restart
 #пересборка проекта + упаковка в jar-файлы
