@@ -1,6 +1,11 @@
+spring_project/dao/RawDataDAO.class
+spring_project/entity/RawData.class
+spring_project/NodeApplication.class
+spring_project/service/impl/ProducerServiceImpl.class
 spring_project/service/impl/ConsumerServiceImpl.class
 spring_project/configuration/RabbitConfiguration.class
-spring_project/NodeApplication.class
+spring_project/service/impl/MainServiceImpl.class
 spring_project/service/ProducerService.class
 spring_project/service/ConsumerService.class
-spring_project/service/impl/ProducerServiceImpl.class
+spring_project/entity/RawData$RawDataBuilder.class
+spring_project/service/MainService.class

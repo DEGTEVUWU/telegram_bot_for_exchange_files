@@ -1,6 +1,10 @@
 /home/ivan/telegram_bot_for_exchange_files/node/src/main/java/spring_project/service/impl/ProducerServiceImpl.java
+/home/ivan/telegram_bot_for_exchange_files/node/src/main/java/spring_project/dao/RawDataDAO.java
 /home/ivan/telegram_bot_for_exchange_files/node/src/main/java/spring_project/service/ConsumerService.java
+/home/ivan/telegram_bot_for_exchange_files/node/src/main/java/spring_project/service/impl/MainServiceImpl.java
 /home/ivan/telegram_bot_for_exchange_files/node/src/main/java/spring_project/NodeApplication.java
+/home/ivan/telegram_bot_for_exchange_files/node/src/main/java/spring_project/service/MainService.java
 /home/ivan/telegram_bot_for_exchange_files/node/src/main/java/spring_project/configuration/RabbitConfiguration.java
+/home/ivan/telegram_bot_for_exchange_files/node/src/main/java/spring_project/entity/RawData.java
 /home/ivan/telegram_bot_for_exchange_files/node/src/main/java/spring_project/service/impl/ConsumerServiceImpl.java
 /home/ivan/telegram_bot_for_exchange_files/node/src/main/java/spring_project/service/ProducerService.java
