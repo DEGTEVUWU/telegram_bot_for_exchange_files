@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>common-rabbitMQ</artifactId>
+    <artifactId>common-rabbitmq</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

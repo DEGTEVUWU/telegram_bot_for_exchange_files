@@ -2,6 +2,7 @@ spring_project/controller/TelegramBot.class
 spring_project/controller/UpdateController.class
 spring_project/service/UpdateProducer.class
 spring_project/service/impl/UpdateProductImpl.class
+configuration/RabbitConfiguration.class
 spring_project/DispatcherApplication.class
 spring_project/utils/MessageUtils.class
 spring_project/service/AnswerConsumer.class

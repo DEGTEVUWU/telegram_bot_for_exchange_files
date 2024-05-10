@@ -11,7 +11,7 @@
 
 <modules>
   <module>dispatcher</module>
-  <module>common-rabbitMQ</module>
+  <module>common-rabbitmq</module>
 </modules>
 
 <!--  <build>-->
@@ -55,6 +55,8 @@
 <!--    <version>1.18.22</version>-->
     <scope>provided</scope>
   </dependency>
+
+
 
 </dependencies>
 </project>

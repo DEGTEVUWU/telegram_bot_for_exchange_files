@@ -1,7 +1,8 @@
-/home/ivan/telegram_bot_exchange_files/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/service/impl/UpdateProductImpl.java
-/home/ivan/telegram_bot_exchange_files/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/utils/MessageUtils.java
-/home/ivan/telegram_bot_exchange_files/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/controller/UpdateController.java
-/home/ivan/telegram_bot_exchange_files/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/controller/TelegramBot.java
-/home/ivan/telegram_bot_exchange_files/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/service/UpdateProducer.java
-/home/ivan/telegram_bot_exchange_files/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/service/AnswerConsumer.java
-/home/ivan/telegram_bot_exchange_files/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/DispatcherApplication.java
+/home/ivan/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/service/UpdateProducer.java
+/home/ivan/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/controller/UpdateController.java
+/home/ivan/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/controller/TelegramBot.java
+/home/ivan/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/service/AnswerConsumer.java
+/home/ivan/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/service/impl/UpdateProductImpl.java
+/home/ivan/telegram_bot_for_exchange_files/dispatcher/src/main/java/configuration/RabbitConfiguration.java
+/home/ivan/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/DispatcherApplication.java
+/home/ivan/telegram_bot_for_exchange_files/dispatcher/src/main/java/spring_project/utils/MessageUtils.java
