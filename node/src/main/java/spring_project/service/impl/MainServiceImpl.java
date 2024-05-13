@@ -11,7 +11,6 @@ import spring_project.service.MainService;
 import spring_project.service.ProducerService;
 
 @AllArgsConstructor
-@NoArgsConstructor
 @Service
 public class MainServiceImpl implements MainService {
     private RawDataDAO rawDataDAO;
