@@ -22,7 +22,6 @@ public class RawData {
 
     @Type(type = "jsonb")
     @Column(columnDefinition = "jsonb")
-//    @JdbcTypeCode(SqlTypes.JSON)
-//    @Column(columnDefinition = "jsonb")
     private Update event;
 }
+

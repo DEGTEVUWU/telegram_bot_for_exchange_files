@@ -20,3 +20,4 @@ public class ProducerServiceImpl implements ProducerService {
         rabbitTemplate.convertAndSend(ANSWER_MESSAGE_UPDATE, sendMessage);
     }
 }
+
